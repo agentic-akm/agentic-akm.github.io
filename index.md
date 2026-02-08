@@ -4,9 +4,11 @@ title: Agentic-AKM
 last_modified: 2026-02-08
 ---
 
-# Agentic-AKM
+# Agentic-AKM.com
 
-Agentic-AKM (Agentic Architecture Knowledge Management) is an independent research initiative that investigates how humans and software agents can co-design, build, and evolve complex software systems by managing architectural knowledge as a living, revisable system. The focus is on knowledge management as an ongoing practice rather than a static model, with attention to how architectural intent, constraints, and rationale are created, contested, and maintained over time.
+## About 
+
+Agentic-AKM (Architecture Knowledge Management) is an independent research initiative that investigates how humans and software agents can co-design, build, and evolve complex software systems by managing architectural knowledge as a living, revisable system. The focus is on knowledge management as an ongoing practice rather than a static model, with attention to how architectural intent, constraints, and rationale are created, contested, and maintained over time.
 
 This is a self-directed research effort with no institutional affiliation.
 
